@@ -1,0 +1,28 @@
+PODS:
+  - Alamofire (4.4.0)
+  - Realm (2.8.3):
+    - Realm/Headers (= 2.8.3)
+  - Realm/Headers (2.8.3)
+  - RealmSwift (2.8.3):
+    - Realm (= 2.8.3)
+  - SDWebImage (4.1.0):
+    - SDWebImage/Core (= 4.1.0)
+  - SDWebImage/Core (4.1.0)
+  - SwiftyJSON (3.1.4)
+
+DEPENDENCIES:
+  - Alamofire (= 4.4.0)
+  - RealmSwift (= 2.8.3)
+  - SDWebImage (= 4.1.0)
+  - SwiftyJSON (= 3.1.4)
+
+SPEC CHECKSUMS:
+  Alamofire: dc44b1600b800eb63da6a19039a0083d62a6a62d
+  Realm: 3601ef091c8c499a31101d8563b991e75546cdce
+  RealmSwift: 8183818515471b01a99abdd2970f8e4fd52b6f4a
+  SDWebImage: 0e435c14e402a6730315a0fb79f95e68654d55a4
+  SwiftyJSON: c2842d878f95482ffceec5709abc3d05680c0220
+
+PODFILE CHECKSUM: 6147a4fffe5bf63835a95469e721d36eec3e86b3
+
+COCOAPODS: 1.1.1
